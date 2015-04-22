@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agilitate", "Agilitate\Agilitate.csproj", "{34C1328C-A348-4DA5-885F-A2F1A36BF571}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agilitate.api", "Agilitate.api\Agilitate.api.csproj", "{9AE3E801-4CF6-484D-AFB5-AA4A8E05D714}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agilitate.api.Tests", "Agilitate.api.Tests\Agilitate.api.Tests.csproj", "{AD208827-518A-484B-B3B9-1B394DE199BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34C1328C-A348-4DA5-885F-A2F1A36BF571}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34C1328C-A348-4DA5-885F-A2F1A36BF571}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34C1328C-A348-4DA5-885F-A2F1A36BF571}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34C1328C-A348-4DA5-885F-A2F1A36BF571}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AE3E801-4CF6-484D-AFB5-AA4A8E05D714}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AE3E801-4CF6-484D-AFB5-AA4A8E05D714}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AE3E801-4CF6-484D-AFB5-AA4A8E05D714}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AE3E801-4CF6-484D-AFB5-AA4A8E05D714}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD208827-518A-484B-B3B9-1B394DE199BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD208827-518A-484B-B3B9-1B394DE199BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD208827-518A-484B-B3B9-1B394DE199BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD208827-518A-484B-B3B9-1B394DE199BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
